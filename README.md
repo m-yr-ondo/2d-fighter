@@ -23,7 +23,6 @@ cargo --version
 Open PowerShell in the project folder:
 
 ```powershell
-cd "C:\Users\OWNER\Documents\jinshi_projects\fighting-game\private-alpha-fighter-milestone-1"
 cargo run
 ```
 
@@ -73,4 +72,3 @@ Directional attacks use the same buttons naturally:
 ## Projectile counterplay
 
 Dee Jay and Rose have projectile specials. Projectile artwork is deliberately larger than its collision box. Jumping early enough clears normal projectiles and can clear Rose's super near the jump apex; jumping late can still be caught. Holding away blocks an approaching projectile. Fei Long and Cammy instead rely on advancing and rising specials to close distance.
-
