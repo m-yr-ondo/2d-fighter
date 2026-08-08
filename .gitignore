@@ -1,0 +1,4 @@
+/target/
+/assets/private/*
+!/assets/private/README.md
+

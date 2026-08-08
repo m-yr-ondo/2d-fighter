@@ -1,0 +1,8 @@
+[package]
+name = "private-alpha-fighter"
+version = "0.1.0"
+edition = "2024"
+description = "A local educational four-fighter prototype made with Rust and Macroquad."
+
+[dependencies]
+macroquad = { version = "0.4", features = ["audio"] }
