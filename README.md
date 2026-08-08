@@ -9,7 +9,7 @@ A local, educational Rust + Macroquad fighting-game project for two players on o
 - Visual Studio 2022 Build Tools with **Desktop development with C++** if the Microsoft C++ linker is not already installed
 - An internet connection for the first build so Cargo can download Macroquad and its audio dependencies
 
-VS Code is optional. Macroquad, Python, and a separate game engine do not need to be installed manually.
+VS Code is optional. Macroquad, Python
 
 Confirm Rust is available from PowerShell:
 
