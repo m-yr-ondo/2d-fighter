@@ -36,6 +36,10 @@ cargo test
 cargo check
 ```
 
+## Gameplay preview
+
+![2D Fighter gameplay preview](assets/gameplay-screenshot.png)
+
 ## Controls
 
 | Player | Move | Jump | Crouch | Punch | Kick | Special | Super |
@@ -69,5 +73,4 @@ Directional attacks use the same buttons naturally:
 ## Projectile counterplay
 
 Dee Jay and Rose have projectile specials. Projectile artwork is deliberately larger than its collision box. Jumping early enough clears normal projectiles and can clear Rose's super near the jump apex; jumping late can still be caught. Holding away blocks an approaching projectile. Fei Long and Cammy instead rely on advancing and rising specials to close distance.
-
 
