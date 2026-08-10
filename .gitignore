@@ -1,4 +1,12 @@
 /target/
 /assets/private/*
 !/assets/private/README.md
-
+!/assets/private/dee_jay.png
+!/assets/private/rose.png
+!/assets/private/fei_long.png
+!/assets/private/cammy.png
+!/assets/private/portraits/
+!/assets/private/portraits/dee_jay.png
+!/assets/private/portraits/rose.png
+!/assets/private/portraits/fei_long.png
+!/assets/private/portraits/cammy.png
